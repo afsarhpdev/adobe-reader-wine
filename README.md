@@ -93,5 +93,8 @@ By following these steps, you can successfully install Adobe Reader on Arch Linu
 
 Please feel free to notify corrections and comment to help improve the guide
 
+### Knows Issues:
+* Fill and Sign: Gives a blank background when clicking the first time. After subsequesnt reopening of the option or Adobe PDF Reade this gets automatically fixxed and allows to fill and sign.
+
 #### Wine Is Not An Emulator
 #### I Use Arch BTW
