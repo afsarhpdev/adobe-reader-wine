@@ -29,7 +29,9 @@ sudo pacman -Syu
 
 ### Step 2: Install Wine:
 Open a terminal and run the following command to install Wine along with necessary dependencies:
-
+```bash
+sudo pacman -Syu wine winetricks wine-mono wine-gecko
+```
 ### Step 3: Install Additional Wine Dependencies:
 Install complete Wine dependencies using the following command
 ```bash
