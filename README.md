@@ -81,7 +81,7 @@ Note: combase.dll is not yet implemented by Wine, so renaming this file can prev
 ### Step 11:  Modify Adobe Reader Settings:
 * Open Adobe Reader.
 * Press Alt+F, select "Disable New Acrobat Reader," and restart Adobe Reader.
-* Go to File > Edit > Preferences.
+* Go to Edit > Preferences.
 * Under Security Enhanced, disable protected view.
 * Optionally, disable any other settings under preferences that you do not use for PDFs like JavaScript.
 
