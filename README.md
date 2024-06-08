@@ -75,6 +75,7 @@ In Wine GUI,
 In Wine GUI,
   * Navigate to C:\Program Files\Adobe\Acrobat Reader DC\Reader
   * Rename FullTrustNotifier.exe to FullTrustNotifier.exe.old.
+
 Note: combase.dll is not yet implemented by Wine, so renaming this file can prevent periodic crashes and error pop-ups.
 
 ### Step 11:  Modify Adobe Reader Settings:
