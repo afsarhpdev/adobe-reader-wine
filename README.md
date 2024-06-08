@@ -88,5 +88,7 @@ You can checkbox the default welcome PDF file and remove from recents to prevent
 
 By following these steps, you can successfully install Adobe Reader on Arch Linux using Wine, allowing you to view PDF files seamlessly.
 
-Wine Is Not An Emulator
-I Use Arch BTW
+Please feel free to notify corrections and comment to help improve the guide
+
+#### Wine Is Not An Emulator
+#### I Use Arch BTW
