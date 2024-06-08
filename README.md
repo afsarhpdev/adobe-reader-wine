@@ -82,7 +82,7 @@ Note: combase.dll is not yet implemented by Wine, so renaming this file can prev
 * Open Adobe Reader.
 * Press Alt+F, select "Disable New Acrobat Reader," and restart Adobe Reader.
 * Go to Edit > Preferences.
-* Under Security Enhanced, disable protected view.
+* Under Security(Enhanced), uncheck/disable "Enable Protected View at startup"
 * Optionally, disable any other settings under preferences that you do not use for PDFs like JavaScript.
 
 ### Step 12:  Avoid Opening Welcome PDF:
